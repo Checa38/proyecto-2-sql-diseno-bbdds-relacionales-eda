@@ -1,1 +1,1 @@
-# proyecto-2-sql-dise-o-bbdds-relacionales-eda
+# proyecto-2-sql-diseno-bbdds-relacionales-eda
